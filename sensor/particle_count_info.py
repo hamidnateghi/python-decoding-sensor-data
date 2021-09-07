@@ -29,4 +29,4 @@ class ParticleData(HouseInfo):
             else:
                 particulate["bad"] += 1
 
-        return particulate 
+        return particulate
